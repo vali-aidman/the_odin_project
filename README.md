@@ -4,7 +4,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## Foundations
 <br>
-
 ### Introduction
 
 - [ ] How This Course Will Work
@@ -76,7 +75,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## Intermediate HTML and CSS Concepts
 <br>
-
 ### Intermediate HTML Concepts
 
 - [ ] Introduction
@@ -115,7 +113,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## JavaScript
 <br>
-
 ### Introduction
 
 - [ ] How This Course Will Work
@@ -170,7 +167,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## Advanced HTML and CSS Course
 <br>
-
 ### Animation
 - [ ] Transforms
 - [ ] Transitions
@@ -198,7 +194,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## React
 <br>
-
 ###Introduction
 
 - [ ] How This Course Will Work
@@ -252,7 +247,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## Nodejs
 <br>
-
 ### Introduction to NodeJS
 
 - [ ] Introduction to the Back End
@@ -309,7 +303,6 @@ Repo that tracks my progress with the Odin Project.
 
 ## Getting Hired
 <br>
-
 ### Preparing for Your Job Search
 
 - [ ] How This Course Will Work
