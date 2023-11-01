@@ -2,7 +2,7 @@
 Repo that tracks my progress with the Odin Project.
 
 
-##Introduction
+## Introduction
 
 - [ ] How This Course Will Work
 - [ ] Introduction to Web Development
