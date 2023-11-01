@@ -189,7 +189,7 @@ Repo that tracks my progress with the Odin Project.
 
 
 ## React
-###Introduction
+### Introduction
 
 - [ ] How This Course Will Work
 - [ ] Introduction To React
