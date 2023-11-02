@@ -5,26 +5,26 @@ Repo that tracks my progress with the Odin Project.
 ## Foundations
 ### Introduction
 
-- [ ] How This Course Will Work
-- [ ] Introduction to Web Development
-- [ ] Motivation and Mindset
-- [ ] Asking For Help
-- [ ] Join the Odin Community
+- [X] How This Course Will Work
+- [X] Introduction to Web Development
+- [X] Motivation and Mindset
+- [X] Asking For Help
+- [X] Join the Odin Community
 
 ### Prerequisites
 
-- [ ] Computer Basics
-- [ ] How Does the Web Work?
-- [ ] Installation Overview
-- [ ] Installations
-- [ ] Text Editors
-- [ ] Command Line Basics
-- [ ] Setting up Git
+- [X] Computer Basics
+- [X] How Does the Web Work?
+- [X] Installation Overview
+- [X] Installations
+- [X] Text Editors
+- [X] Command Line Basics
+- [X] Setting up Git
 
 ### Git Basics
 
-- [ ] Introduction to Git
-- [ ] Git Basics
+- [X] Introduction to Git
+- [X] Git Basics
 
 ### HTML Foundations
 
