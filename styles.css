@@ -1,0 +1,13 @@
+* {
+    color: rgb(220, 232, 242);
+    background-color: rgb(35, 31, 31);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
