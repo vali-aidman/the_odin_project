@@ -28,22 +28,22 @@ Repo that tracks my progress with the Odin Project.
 
 ### HTML Foundations
 
-- [ ] Introduction to HTML and CSS
-- [ ] Elements and Tags
-- [ ] HTML Boilerplate
-- [ ] Working with Text
-- [ ] Lists
-- [ ] Links and Images
-- [ ] Commit Messages
-- [ ] Project: Recipes
+- [X] Introduction to HTML and CSS
+- [X] Elements and Tags
+- [X] HTML Boilerplate
+- [X] Working with Text
+- [X] Lists
+- [X] Links and Images
+- [X] Commit Messages
+- [X] Project: Recipes
 
 ### CSS Foundations
 
-- [ ] Intro to CSS
-- [ ] The Cascade
-- [ ] Inspecting HTML and CSS
-- [ ] The Box Model
-- [ ] Block and Inline
+- [X] Intro to CSS
+- [X] The Cascade
+- [X] Inspecting HTML and CSS
+- [X] The Box Model
+- [X] Block and Inline
 
 ### Flexbox
 
