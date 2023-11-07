@@ -11,12 +11,5 @@ console.log(1=="1");
 console.log(1==="1");
 let go = null;
 console.log(typeof "8");
-const root = document.querySelector('body');
-console.log(root);
-root.addEventListener('click', function () {
-  root.style.background = 'blue';
-  root.style.color = 'blue';
-  root.style.backgroundColor = 'green';
-  root.style.fontSize = '20px';
-});
+
 
